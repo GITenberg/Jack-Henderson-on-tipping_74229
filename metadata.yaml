@@ -1,0 +1,42 @@
+_repo: Jack-Henderson-on-tipping_74229
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smith, Marshall D.
+    birthdate: 1874
+    deathdate: 1973
+    gutenberg_agent_id: '57404'
+    url: http://www.gutenberg.org/2009/agents/57404
+creator:
+  author:
+    agent_name: Cobb, Benj. F. (Benjamin Franklin)
+    alias: Cobb, Benjamin Franklin
+    birthdate: 1844
+    deathdate: 1923
+    gutenberg_agent_id: '57403'
+    url: http://www.gutenberg.org/2009/agents/57403
+description: ''
+gutenberg_issued: '2024-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74229'
+  lccn: 05017598
+language: en
+pgterms:marc904: https://archive.org/details/jackhendersonont00cobb
+pgterms:marc905: 20231109210929cobb
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bHurst and company, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tipping -- Humor'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Tipping as she is tipped -- To tip or not to tip -- Merry Christmas
+  -- Swearing off -- Grafting -- The long salesman -- At the mission school.
+title: Jack Henderson on tipping
+url: http://www.gutenberg.org/ebooks/74229
