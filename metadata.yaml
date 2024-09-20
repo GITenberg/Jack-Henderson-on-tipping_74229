@@ -7,6 +7,9 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '57404'
     url: http://www.gutenberg.org/2009/agents/57404
+covers:
+- cover_type: archival
+  image_path: 74229-h/images/cover.jpg
 creator:
   author:
     agent_name: Cobb, Benj. F. (Benjamin Franklin)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '57403'
     url: http://www.gutenberg.org/2009/agents/57403
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74229#Jack-Henderson-on-tipping
 gutenberg_issued: '2024-08-11'
 gutenberg_type: Text
 identifiers:
